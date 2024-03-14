@@ -1,0 +1,21 @@
+{
+	"name": "shopify-multipass",
+	"version": "0.1.0",
+	"description": "",
+	"license": "MIT",
+	"repository": "iksi/shopify-multipass",
+	"author": {
+		"name": "Jurriaan Topper",
+		"email": "jurriaan@iksi.eu",
+		"url": "https://www.iksi.eu/"
+	},
+	"type": "module",
+	"exports": {
+		"types": "./index.d.ts",
+		"default": "./index.js"
+	},
+	"engines": {
+		"node": ">=18"
+	},
+	"files": ["index.js", "index.d.ts"]
+}
